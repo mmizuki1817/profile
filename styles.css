@@ -1,0 +1,68 @@
+/* body */
+.body
+{
+    background-color: #e6e6e6;
+}
+
+/* header */
+.header
+{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    background-color: #ffffff;
+    align-items: center;
+
+}
+
+.title
+{
+    margin-right: auto;
+    font-size: 40px;
+    font-family: 'Bangers', cursive;
+    margin: 0 0 0 15px;
+}
+
+.menu-item
+{
+    list-style: none;
+    display: flex;
+    padding: 50px;
+    margin: 0;
+}
+
+#li
+{
+    margin: 0 0 0 15px;
+    font-size: 14;
+}
+
+.nav
+{
+    margin: 0 0 0 auto;
+}
+
+/* main */
+.main
+{
+    text-align: center;
+}
+
+.img
+{
+    width: 400px;
+    height: 300px;
+}
+
+
+#content
+{
+    font-family: 'Amatic SC', cursive;
+}
+
+/* footer */
+.footer
+{
+    text-align: center;
+    font-size: 6px;
+}
